@@ -8,4 +8,4 @@ RUN export VERSION=$(cat /app/VERSION) && \
     echo "VERSION=$VERSION" >> /etc/environment
 LABEL version=$VERSION
 
-EXPOSE 8888
+EXPOSE 8000
