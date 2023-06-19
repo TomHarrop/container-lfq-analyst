@@ -1,4 +1,4 @@
-FROM haileyzhang/lfq-analyst:v1.2.4_galaxy
+FROM haileyzhang/lfq-analyst:v1.2.5_galaxy
 
 LABEL MAINTAINER "Tom Harrop"
 
